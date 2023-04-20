@@ -1,4 +1,4 @@
-# Teraranger Evo 60m | Evo 40m | Evo 15m | Evo 3m
+# Teraranger Evo 60m | Evo 40m | Evo 15m | Evo 3m (I2C)
 
 This repository provides Python code to get started with the TeraRanger Evo series(Connection for I2C)
 
